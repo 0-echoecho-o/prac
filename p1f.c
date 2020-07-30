@@ -8,7 +8,7 @@ int main (void){
   if (n%k==0){
   n/=k;
   printf("%d,",k);}
-  if (n==1) break;
+  if (n==0) break;
   while(n%k!=0){
    if(k==2) k=3;
    else k+=2;}
