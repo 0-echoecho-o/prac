@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main (void){
+int main (void){//hi i am a comment
  int k=2,n,m;
  printf("enter a +ve integer greater than 1:- ");
  scanf("%d",&n);
